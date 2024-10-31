@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CartList</string>
+    <string name="product">Product</string>
+    <string name="addbutton">addButton</string>
+    <string name="add_item">Add Item</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+</resources>
